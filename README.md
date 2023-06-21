@@ -1,1 +1,1 @@
-# flaskshop - магазин написан на flasks
+# flaskshop - shop written in flasks / магазин написан на flasks
